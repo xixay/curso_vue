@@ -10,4 +10,6 @@
 | **9.- FullStack Javascript MEVN - proyecto día 2 - Importación y exportación Javascript** | [Ver](https://github.com/xixay/curso_vue_clase_9) | **10. FullStack Javascript MEVN - proyecto día 3 - Modelo User y Login Autenticación Api Rest** | [Ver](https://github.com/xixay/curso_vue_clase_9) |
 | **11.- FullStack Javascript MEVN - proyecto día 4 - CRUD Usuario Api Rest + Middlewares (JWT) - VuePress(BackUlt)** | [Ver](https://github.com/xixay/curso_vue_clase_11) | **12.Clase 12** | [Ver](https://github.com/xixay/curso_vue_clase_12) |
 | **13.- Clase 13** | [Ver](https://github.com/xixay/curso_vue_clase_13) | **14.Clase 14** | [Ver](https://github.com/xixay/curso_vue_clase_14) |
+| **15.- Clase 15** | [Ver](https://github.com/xixay/curso_vue_clase_15) | **16.Clase 16** | [Ver](https://github.com/xixay/curso_vue_clase_16) |
+| **17.- Clase 17** | [Ver](https://github.com/xixay/curso_vue_clase_17) | **18.Clase 18** | [Ver](https://github.com/xixay/curso_vue_clase_18) |
 [<< INDICE](https://github.com/xixay/ayuda-memoria/tree/main)
