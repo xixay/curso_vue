@@ -13,4 +13,5 @@
 | **15.- Clase 15** | [Ver](https://github.com/xixay/curso_vue_clase_15) | **16.Clase 16** | [Ver](https://github.com/xixay/curso_vue_clase_16) |
 | **17.- Clase 17** | [Ver](https://github.com/xixay/curso_vue_clase_17) | **18.Clase 18** | [Ver](https://github.com/xixay/curso_vue_clase_18) |
 | **19.- Clase 19** | [Ver](https://github.com/xixay/curso_vue_clase_19) | **20.Clase 20** | [Ver](https://github.com/xixay/curso_vue_clase_20) |
+| **21.- Clase 21** | [Ver](https://github.com/xixay/curso_vue_clase_21) | **22.Clase 22** | [Ver](https://github.com/xixay/curso_vue_clase_22) |
 [<< INDICE](https://github.com/xixay/ayuda-memoria/tree/main)
