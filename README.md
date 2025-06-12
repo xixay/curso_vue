@@ -15,4 +15,5 @@
 | **19.- FullStack Javascript MEVN - proyecto día 12 - Node Paginación Producto subida de Imágenes Multer** | [Ver](https://github.com/xixay/curso_vue_clase_19) | **20.- FullStack Javascript MEVN - proyecto día 13 - Vue Registro y Edición Productos + diseño Pedido** | [Ver](https://github.com/xixay/curso_vue_clase_20) |
 | **21.- FullStack Javascript MEVN - proyecto día 14 - Docker Mysql y Estructura de archivos Rutas NodeJS** | [Ver](https://github.com/xixay/curso_vue_clase_21) | **22.- FullStack Javascript MEVN - proyecto día 15 - Validaciones Express-validator, Perfil** | [Ver](https://github.com/xixay/curso_vue_clase_22) |
 | **23.- FullStack Javascript MEVN - proyecto día 16 - Docker y NodeJs** | [Ver](https://github.com/xixay/curso_vue_clase_23) | **24.- Amazon Web Services S3** | [Ver](https://github.com/xixay/curso_vue_clase_24) |
+| **25.- Extra 1 - Correcciones** | [Ver](https://github.com/xixay/curso_vue_extra_1) | **26.- Extra 2 - Morgan y Seeders** | [Ver](https://github.com/xixay/curso_vue_extra_2) |
 [<< INDICE](https://github.com/xixay/ayuda-memoria/tree/main)
