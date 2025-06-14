@@ -16,4 +16,15 @@
 | **21.- FullStack Javascript MEVN - proyecto día 14 - Docker Mysql y Estructura de archivos Rutas NodeJS** | [Ver](https://github.com/xixay/curso_vue_clase_21) | **22.- FullStack Javascript MEVN - proyecto día 15 - Validaciones Express-validator, Perfil** | [Ver](https://github.com/xixay/curso_vue_clase_22) |
 | **23.- FullStack Javascript MEVN - proyecto día 16 - Docker y NodeJs** | [Ver](https://github.com/xixay/curso_vue_clase_23) | **24.- Amazon Web Services S3** | [Ver](https://github.com/xixay/curso_vue_clase_24) |
 | **25.- Extra 1 - Correcciones** | [Ver](https://github.com/xixay/curso_vue_extra_1) | **26.- Extra 2 - Morgan y Seeders** | [Ver](https://github.com/xixay/curso_vue_extra_2) |
+
+# repositorio backend
+[>> EXPRESS](https://github.com/xixay/curso_vue_proyecto_base_backend)
+
+# repositorio frontend
+[>> VUE3 + VITE + VUEPRIME](https://github.com/xixay/curso_vue_proyecto_base_frontend)
+
+# repositorio producción
+[>> BACKEND + FRONTEND](https://github.com/xixay/docker-node-vue-production)
+
+
 [<< INDICE](https://github.com/xixay/ayuda-memoria/tree/main)
