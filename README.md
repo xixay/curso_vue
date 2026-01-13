@@ -16,8 +16,8 @@
 | **21.- Docker Mysql y Estructura de archivos Rutas NodeJS** | [Ver](https://github.com/xixay/curso_vue_clase_21) | **22.- Validaciones Express-validator, Perfil** | [Ver](https://github.com/xixay/curso_vue_clase_22) |
 | **23.- Docker y NodeJs** | [Ver](https://github.com/xixay/curso_vue_clase_23) | **24.- Amazon Web Services S3** | [Ver](https://github.com/xixay/curso_vue_clase_24) |
 | **25.- Extra 1 - Correcciones** | [Ver](https://github.com/xixay/curso_vue_extra_1) | **26.- Extra 2 - Morgan y Seeders** | [Ver](https://github.com/xixay/curso_vue_extra_2) |
-| **27.- Extra 3 - Correcciones Visual Frontend** | [Ver](https://github.com/xixay/curso_vue_extra_3) | | |
-
+| **27.- Extra 3 - Correcciones Visual Frontend** | [Ver](https://github.com/xixay/curso_vue_extra_3) | **28.- Extra 4 - Correcciones Logica Backend** | [Ver](https://github.com/xixay/curso_vue_extra_4) |
+| **29.- Extra 5 - Correcciones Visual Frontend 2** | [Ver](https://github.com/xixay/curso_vue_extra_5) | | |
 # repositorio backend
 [>> EXPRESS](https://github.com/xixay/curso_vue_proyecto_base_backend)
 
