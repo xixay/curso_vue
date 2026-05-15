@@ -49,7 +49,7 @@ features:
     link: https://github.com/xixay/curso_vue_clase_9
   - title: 10. Modelo User y Login
     details: Autenticación Api Rest
-    link: https://github.com/xixay/curso_vue_clase_9
+    link: https://github.com/xixay/curso_vue_clase_10
   - title: 11. CRUD Usuario Api Rest
     details: Middlewares (JWT) - VuePress
     link: https://github.com/xixay/curso_vue_clase_11
